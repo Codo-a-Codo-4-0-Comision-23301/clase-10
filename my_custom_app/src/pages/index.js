@@ -20,7 +20,7 @@ export default function Home() {
         Hello world
         <br></br>
         <Button></Button>
-        <Card></Card>
+        <Card data={ { text:"data"} } ></Card>
       </main>
     </>
   )

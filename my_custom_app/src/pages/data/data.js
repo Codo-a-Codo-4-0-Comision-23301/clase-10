@@ -1,3 +1,3 @@
-const fullData = [ ]
+const fullData = [ ""]
 
 export default fullData;

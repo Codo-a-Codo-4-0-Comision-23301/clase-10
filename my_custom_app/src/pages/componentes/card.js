@@ -1,7 +1,7 @@
 export default function Card( { data } ) {
     return(
         <span>
-            { data.text }
+           Esto es un texto insertado:  { data.text }
         </span>
         );
 }
